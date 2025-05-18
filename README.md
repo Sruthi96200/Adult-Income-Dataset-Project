@@ -43,6 +43,4 @@ This project not only demonstrates technical proficiency in data analysis and vi
 ## 👩‍💻 Author
 **Sruthi Keerthana Nuttakki**  
 Graduate Student, Data Science, Arizona State University  
-🔗 [LinkedIn](https://linkedin.com/in/sruthi-keerthana-nuttakki) | 🔗 [GitHub](https://github.com/SRUTHI96200)
-
  
